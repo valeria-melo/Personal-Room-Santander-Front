@@ -1,0 +1,14 @@
+.navbar {
+background-color: #ec0000;
+}
+.nav-link{
+  font-family: -apple-system,Roboto, BlinkMacSystemFont, 'Segoe UI',  Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-weight: bold;
+  color: #ffff;
+}
+.colorLabel{
+  font-family: -apple-system,Roboto, BlinkMacSystemFont, 'Segoe UI',  Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-weight: bold;
+}
+
+
